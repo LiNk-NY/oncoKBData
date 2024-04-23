@@ -33,7 +33,6 @@
 #' oncoKB()
 #'
 #' @exportClass oncoKB
-#' @export
 .oncoKB <- setClass(
     "oncoKB",
     contains = "Service",
