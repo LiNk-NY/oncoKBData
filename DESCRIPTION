@@ -1,7 +1,7 @@
 Package: oncoKBData
 Title: A package to access the oncoKB web API
 Version: 0.99.1
-Authors@R: person("Marcel", "Ramos", "", "marcel.ramos@roswellpark.org",
+Authors@R: person("Marcel", "Ramos", "", "marcel.ramos@sph.cuny.edu",
     c("aut", "cre"), c(ORCID = "0000-0002-3242-0582"))
 Description: It provides access to the oncoKB API using the rapiclient and
   AnVIL R / Bioconductor packages. It allows access to both public and private
